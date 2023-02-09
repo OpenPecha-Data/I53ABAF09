@@ -1,0 +1,11 @@
+id: bfbce26c02964df8bb901fae8fb33242
+annotation_type: index
+revision: '00001'
+annotations:
+  0e3d539787f747a3a8773e93b4150fe8:
+    base: 193B.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 76925

@@ -1,0 +1,16 @@
+id: I53ABAF09
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:20:24.146860
+last_modified: 2023-02-10 00:20:24.146962
+source_metadata:
+  title: Saṅghabhedavastu
+  language: zh
+bases:
+  193B:
+    base_file: 193B.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
